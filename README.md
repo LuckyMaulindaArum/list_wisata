@@ -1,5 +1,9 @@
 nama : Lucky Maulinda Arum
+
+
 Nim : 33421013
+
+
 kelas : IK2A
 
 
